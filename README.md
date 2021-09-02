@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @bintangmfhd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-bintangmfhd/bintangmfhd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋
+- 👋 I’m @bintangmfhd
+- 🔭 I’m currently working on Quantum Edukasindo Paradigma
+- 🌱 I’m currently learning UIN Maulana Malik Ibrahim Malang
+- 👯 I’m looking to collaborate on Google Developer Student Club
+- 💬 Ask me about: technology like PWA, Mobile, Cyber Security
+- 📫 How to reach me: bintangmfhd (just search in browser)
+
