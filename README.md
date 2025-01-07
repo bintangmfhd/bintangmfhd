@@ -1,9 +1,9 @@
 
 ### Hi there 👋
 - 👋 I’m @bintangmfhd
-- 🔭 I’m currently working on Quantum Edukasindo Paradigma
-- 🌱 I’m currently learning UIN Maulana Malik Ibrahim Malang
-- 👯 I’m looking to collaborate on Google Developer Student Club
+- 🔭 Main Repo @BintangDiLangit
+- 🌱 Software Engineer
+- 👯 I’m looking to collaborate on Google Developer Group
 - 💬 Ask me about: technology like PWA, Mobile, Cyber Security
 - 📫 How to reach me: bintangmfhd (just search in browser)
 
